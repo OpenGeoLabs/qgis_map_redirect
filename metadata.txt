@@ -1,0 +1,17 @@
+[general]
+name=MapRedirect
+qgisMinimumVersion=3.0
+version=1.0
+description=Opens map application (mapy.cz, openstreetmap.org, maps.google.com) in browsers based on right click in map canvas
+author=GISMentors
+email=info@gismentors.cz
+category=Plugins
+
+# Tags are comma separated with spaces allowed
+tags=external maps, mapy.com, openstreetmap, google
+
+homepage=https://github.com/OpenGeoLabs/qgis_map_redirect
+tracker=https://github.com/OpenGeoLabs/qgis_map_redirect/issues
+repository=https://github.com/OpenGeoLabs/qgis_map_redirect
+icon=icons/logo.svg
+experimental=False
